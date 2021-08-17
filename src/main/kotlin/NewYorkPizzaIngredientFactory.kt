@@ -1,4 +1,4 @@
-class NYPizzaIngredientFactory : PizzaIngredientFactory {
+class NewYorkPizzaIngredientFactory : PizzaIngredientFactory {
 
     override fun createDough(): Dough {
         return ThinCrustDough()
