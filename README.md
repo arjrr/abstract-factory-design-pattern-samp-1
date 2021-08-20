@@ -90,4 +90,4 @@ fun main() {
 
 }
 ```
-(*) Olhe as implementações da classe Pizza 
+(*) Veja as implementações da classe Pizza 
